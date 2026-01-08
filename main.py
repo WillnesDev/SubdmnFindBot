@@ -5,7 +5,7 @@ import io
 
 # ================= CONFIG =================
 
-BOT_TOKEN = "8502713384:AAH8-X6rwv_fo5jldQyHelalAkoNub1zQO4"
+BOT_TOKEN = "8502713384:AAE0U1bE1MWneMyQcFRP5CL6ia6AvPWoEW0"
 ADMIN_CONTACT = "t.me/yunusbeckk"
 
 # =========================================
